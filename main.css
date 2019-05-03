@@ -468,9 +468,9 @@ table td:first-child {
 .wrapper {
     float: left;
     display: block;
-    margin-right: 1%;
+    margin-right: 2%;
     width: 96%;
-    margin-left: 3%;
+    margin-left: 2%;
     margin-bottom: 3em
 }
 
